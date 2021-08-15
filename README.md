@@ -17,6 +17,6 @@ Anlayzing an English Premier League 2020-21 season dataset from kaggle
 - Yellow_Cards	-The players get a yellow card from the referee for indiscipline, technical fouls, or other minor fouls
 - Red Cards	-The players get a red card for accumulating 2 yellow cards in a single game, or for a major foul
 ## Links
-[The dataset](https://www.kaggle.com/rajatrc1705/english-premier-league202021)
-[My_Notebook_at_kaggle](https://www.kaggle.com/ziad22tarek/english-premier-league-2020-21)
+- [The dataset](https://www.kaggle.com/rajatrc1705/english-premier-league202021)
+- [My_Notebook_at_kaggle](https://www.kaggle.com/ziad22tarek/english-premier-league-2020-21)
 
